@@ -1,0 +1,6 @@
+*.dvi
+*.log
+*.aux
+*.ps
+*.swp
+.nfs*
